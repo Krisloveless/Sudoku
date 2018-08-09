@@ -5,12 +5,12 @@
 
 Before:
 
-you :slightly_smiling_face:
+you          :slightly_smiling_face:
 
 your friends :slightly_smiling_face:
 
 After:
 
-you :smirk:
+you          :smirk:
 
 your friends :sob:
