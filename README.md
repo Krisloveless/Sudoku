@@ -1,16 +1,17 @@
 # Sudoku 
-:notebook: Sudoku solutions in :snake:python 
 
-*A python program that can cheat for you when you are competing with your friends.*
+:notebook: Sudoku solutions  :snake: :parking:🇾:three:
 
-Before:
+*A python program that can ~~cheat for~~ help you when you are competing with your friends.*
 
-you          :slightly_smiling_face:
+**Before:**
+
+you&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:slightly_smiling_face:
 
 your friends :slightly_smiling_face:
 
-After:
+**After:**
 
-you          :smirk:
+you&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:smirk:
 
 your friends :sob:
